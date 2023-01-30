@@ -8,6 +8,8 @@ I believe that you will thrive more by thinking in this way versus having a fixe
 -Embracing challenges and feedback.
 -Learning from critiques.
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtello.com%2Ffixed-mindset-vs-growth-mindset%2F&psig=AOvVaw1smdKOAldT4-1mJZNHednn&ust=1675187138601000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPidlO_s7_wCFQAAAAAdAAAAABAI)
+![This is an image](https://www.techtello.com/wp-content/uploads/2020/06/5-strategies-to-shift-to-growth-mindset.png)
 
 The research found in this article can be found on [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my github at georleshiam.github.io/README.md
