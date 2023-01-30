@@ -15,7 +15,7 @@ The research found in this article can be found on [How you can benefit from a g
 I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my [github](https://georleshiam.github.io/) here.
 
 
-##Reflection and Discussion
+## Reflection and Discussion
 Basic writing and formatting matter to me because, it helps to learn how to write or create a useful and complete code. With the instructions given I was able to add different formats to my website. This material was effective in multiple ways and thought me so much.
 After reviewing the required readings and viewing the github video, here are a few study notes!
 Fill in the blank:
