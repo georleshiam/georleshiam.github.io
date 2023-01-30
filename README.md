@@ -12,4 +12,18 @@ I believe that you will thrive more by thinking in this way versus having a fixe
 
 The research found in this article can be found on [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my [github](https://georleshiam.github.io/)
+I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my [github](https://georleshiam.github.io/) here.
+
+
+##Reflection and Discussion
+Basic writing and formatting matter to me because, it helps to learn how to write or create a useful and complete code. With the instructions given I was able to add different formats to my website. This material was effective in multiple ways and thought me so much.
+After reviewing the required readings and viewing the github video, here are a few study notes!
+Fill in the blank:
+- 1. You use blank to create a heading.
+- 2. You can create a blank by wrapping link text in brackets, and then wrapping the URL in parentheses.
+- 3. - or * are used to create blank.
+
+If you answered #, link and list, then you are correct! The material given gave insite on how to add those basic writing formats while coding. 
+
+## Things I want to know more about.
+Some things I would like to learn include, how to properly add bolding to one specific word in a sentence versus the entire sentence. I would I also like to know, how to use a differnt coding software outside of github.
