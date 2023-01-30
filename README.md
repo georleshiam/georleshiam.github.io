@@ -26,4 +26,7 @@ Fill in the blank:
 If you answered #, link and list, then you are correct! The material given gave insite on how to add those basic writing formats while coding. 
 
 ## Things I want to know more about.
-Some things I would like to learn include, how to properly add bolding to one specific word in a sentence versus the entire sentence. I would I also like to know, how to use a different coding software outside of github.
+Some things I would like to learn include:
+- how to properly add bolding to one specific word in a sentence versus the entire sentence?
+- how do I use a different coding software outside of github?
+- is there a better breakdown on how to change font color?
