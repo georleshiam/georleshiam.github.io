@@ -10,7 +10,7 @@ I believe that you will thrive more by thinking in this way versus having a fixe
 
 ![This is an image](https://www.techtello.com/wp-content/uploads/2020/06/5-strategies-to-shift-to-growth-mindset.png)
 
-The research found in this article can be found on [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+The research found in this article can be found on [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset) .
 
 I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my [github](https://georleshiam.github.io/) here.
 
@@ -26,4 +26,4 @@ Fill in the blank:
 If you answered #, link and list, then you are correct! The material given gave insite on how to add those basic writing formats while coding. 
 
 ## Things I want to know more about.
-Some things I would like to learn include, how to properly add bolding to one specific word in a sentence versus the entire sentence. I would I also like to know, how to use a differnt coding software outside of github.
+Some things I would like to learn include, how to properly add bolding to one specific word in a sentence versus the entire sentence. I would I also like to know, how to use a different coding software outside of github.
