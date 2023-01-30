@@ -12,4 +12,4 @@ I believe that you will thrive more by thinking in this way versus having a fixe
 
 The research found in this article can be found on [How you can benefit from a growth mindset] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my [github](georleshiam.github.io/README.md)
+I am Georleshia Minter and this has been my understanding of a growth mindset, you can follow my [github](https://georleshiam.github.io/)
