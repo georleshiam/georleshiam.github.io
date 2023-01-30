@@ -4,7 +4,7 @@ My idea of a growth mindset is being one hundred percent invested in one way of 
 
 I believe that you will thrive more by thinking in this way versus having a fixedmindset. Being able to believe that your abilities can improve with hardwork is the biggest key to success. Here are a few examples of a growth mindest:
 - Beliveing everything is possible
-- Having an attitude of gratitude
+- Having an attitude of gratitude.
 - Embracing challenges and feedback
 - Learning from critiques
 
